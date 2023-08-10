@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T16:09:39.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0T9fyXQoo_FuBWGqAanh" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T17:00:12.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6rDx80Z6StvmzmY1ggcf" version="21.6.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="11509" dy="4800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2998" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -667,7 +667,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6XLFOW6tzgMGZKUMcbwn-2068" value="¡Hola! Soy el Agente virtual Soporte Arquibot, poseo una gran base de conocimiento y estoy acá para resolver tus dudas" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1422.5" y="1230" width="140" height="81" as="geometry" />
+          <mxGeometry x="1425" y="1241" width="140" height="81" as="geometry" />
         </mxCell>
         <mxCell id="6XLFOW6tzgMGZKUMcbwn-2287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6XLFOW6tzgMGZKUMcbwn-2070" target="6XLFOW6tzgMGZKUMcbwn-2072">
           <mxGeometry relative="1" as="geometry" />
